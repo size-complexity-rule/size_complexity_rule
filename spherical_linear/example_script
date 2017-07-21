@@ -1,0 +1,2 @@
+#      geometry   k+     k-     kR     kD     sigma   cost   initial_population   maximum_iterate   p
+./main linear     0.01   0.01   0.01   1e-05  0.9     0.04   10000                50000             8
